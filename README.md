@@ -4,8 +4,8 @@ A personalized collection of smooth, creative image trail effects that follow th
 
 ![Siphelele's Image Trail Effects](https://raw.githubusercontent.com/Siphelele-Maphumulo/CoverPage/refs/heads/main/Screenshot.png)
 
-🧪 **Live Demo:** [View Demo](https://tympanus.net/Development/ImageTrailEffects/)  
-📝 **Original Article on Codrops:** [Read Article](https://tympanus.net/codrops/?p=42696)
+🧪 **Live Demo:** [View Demo](https://siphelele-maphumulo.github.io/CoverPage/index2.html)  
+📝 **Original Article on Codrops:** [Read Article](https://siphelele-maphumulo.github.io/CoverPage/)
 
 ---
 
@@ -32,4 +32,4 @@ A personalized collection of smooth, creative image trail effects that follow th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/image-trail-effects.git
+   git clone https://github.com/Siphelele-Maphumulo/CoverPage.git

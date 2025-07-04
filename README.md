@@ -2,7 +2,7 @@
 
 A personalized collection of smooth, creative image trail effects that follow the mouse cursor — showing a rotating set of visuals as you interact. Inspired by [VLNC Studio](http://www.vlnc.studio), and adapted with love and creativity by **Siphelele Maphumulo**.
 
-![Siphelele's Image Trail Effects](https://tympanus.net/codrops/wp-content/uploads/2019/08/ImageTrailEffects_featured.jpg)
+![Siphelele's Image Trail Effects](https://raw.githubusercontent.com/Siphelele-Maphumulo/CoverPage/refs/heads/main/Screenshot.png)
 
 🧪 **Live Demo:** [View Demo](https://tympanus.net/Development/ImageTrailEffects/)  
 📝 **Original Article on Codrops:** [Read Article](https://tympanus.net/codrops/?p=42696)
